@@ -13,3 +13,5 @@ Open `dungeon-test.html` in a browser. That's it, no install, no server, no acco
 ## License
 
 MIT, see `LICENSE`.
+
+Give it a play here: https://mgracen.github.io/dungeon-test/
