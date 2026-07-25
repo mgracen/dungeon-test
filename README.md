@@ -1,6 +1,6 @@
-<img width="1366" height="768" alt="Screenshot 2026-07-24 10 16 01 PM" src="https://github.com/user-attachments/assets/9e627f88-675f-4787-a47d-4fa19386d50b" />
-<img width="1366" height="768" alt="Screenshot 2026-07-24 10 16 18 PM" src="https://github.com/user-attachments/assets/7eb25ac1-8062-4c27-ae1e-a3d523ba81bc" />
-<img width="1366" height="768" alt="Screenshot 2026-07-24 10 16 28 PM" src="https://github.com/user-attachments/assets/51836e32-9def-43d4-8dd1-9f7ed424ec9f" />
+<img width="1140" height="581" alt="Screenshot 2026-07-24 10 32 18 PM" src="https://github.com/user-attachments/assets/33f4319f-aa3b-4681-95f9-87bea7518034" />
+<img width="1140" height="581" alt="Screenshot 2026-07-24 10 32 38 PM" src="https://github.com/user-attachments/assets/ebd2c7f6-843b-4d74-96c7-5f3184c9486f" />
+<img width="1140" height="581" alt="Screenshot 2026-07-24 10 32 54 PM" src="https://github.com/user-attachments/assets/f7d99cd6-692e-4f7c-b1ee-38c505951ae6" />
 # Dungeon Test
 
 A crazed king has a dungeon under his keep, and he's short on entertainment. Four mercenaries go in through the trial door. Whoever walks back out gets paid.
